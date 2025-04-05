@@ -23,3 +23,6 @@ dist/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+docs/.vitepress/dist 
+docs/.vitepress/dist 
